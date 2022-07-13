@@ -27,10 +27,10 @@ Projeye ait ekran görüntüleri aşağıdaki gibidir:
  <table>
  <tr>
     <td>
-     <img src="https://user-images.githubusercontent.com/99657258/178854453-9e5ff6ca-04e5-419f-bc54-4f0a33c9360a.png" width="300" height="520">
+     <img src="https://user-images.githubusercontent.com/99657258/178854453-9e5ff6ca-04e5-419f-bc54-4f0a33c9360a.png" width="310" height="520">
     </td>
     <td>
-     <img src="https://user-images.githubusercontent.com/99657258/178854454-dbfff683-9d1d-46ff-b58e-b061cb45c649.png" width="300" height="520">
+     <img src="https://user-images.githubusercontent.com/99657258/178854454-dbfff683-9d1d-46ff-b58e-b061cb45c649.png" width="310" height="520">
     </td>
   </tr>
  </table>
