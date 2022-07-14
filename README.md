@@ -34,7 +34,7 @@ Projeye ait ekran görüntüleri aşağıdaki gibidir:
  <table>
  <tr>
     <td>
-     <img src="https://user-images.githubusercontent.com/99657258/178854454-dbfff683-9d1d-46ff-b58e-b061cb45c649.png" width="340" height="540">
+     <img src="https://user-images.githubusercontent.com/99657258/178854454-dbfff683-9d1d-46ff-b58e-b061cb45c649.png" width="500" height="750">
     </td>
   </tr>
  </table>
